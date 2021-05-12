@@ -1,0 +1,31 @@
+.firstSection {
+    background-image: url("../../../images/h1-background-img-1.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 86% 200%;
+    height: 186vh;
+    .intro {
+        padding: 100px 0px;
+        p {
+            text-transform: uppercase;
+            letter-spacing: 5px;
+        }
+        h1 {
+            font-weight: 700;
+            margin: 20px 0px;
+            font-size: 68px;
+            line-height: 70px;
+            letter-spacing: -2px;
+        }
+        button {
+            padding: 12px 49px;
+            border: 0px;
+            background-color: black;
+            color: white;
+            font-weight: bold;
+        }
+        img {
+            width: 452px !important;
+        }
+    }
+}
